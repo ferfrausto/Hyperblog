@@ -41,14 +41,13 @@ body{
     font-size: 20px;
 }
 
-<<<<<<< HEAD
 #post{
     background-color: white;
     padding: 1em;
-=======
+}
+
 #footer{
     background: #777;
-    color white;
+    color: #DDD;
     text-align: center;
->>>>>>> footer
 }
